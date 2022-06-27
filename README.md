@@ -1,7 +1,7 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Bem vindo a <a href="https://www.linkedin.com/in/AmericaRental/"><i>América Rental</i></a> 😃️</h1>
+  <h1 align="center">Bem vindo a <a href="https://www.linkedin.com/in/AmericaRental/"><i>América Rental Equipamentos LTDA - Me</i></a> 😃️</h1>
   </a><br>
-  <p align="center"> Soluções para Locação de Equipamentos! 😉️</h2>
+  <p align="center"> Technology department américa rental, Projetos: Sistema - Aplicativos - Site</h2>
 </div>
 
 <!-- <h1 align="center"> 
@@ -13,7 +13,6 @@
 <div align="center">
   <a href="https://www.instagram.com/america_rental/">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AmericaRental&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmericaRental&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -27,7 +26,7 @@
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
+  <img align="center" alt="github" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 <!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
