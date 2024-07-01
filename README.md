@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Bem vindo a <a href="https://www.linkedin.com/in/AmericaRental/"><i>América Rental Equipamentos LTDA - ME</i></a> 😃️</h1>
+  <h1 align="center">Bem vindo a <a href="https://www.linkedin.com/in/AmericaRental/"><i>América Rental Equipamentos</i></a> 😃️</h1>
   </a><br>
   <p align="center"> Technology department américa rental, Projetos: Sistema - Aplicativos - Site</h2>
 </div>
@@ -42,6 +42,7 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
   <p>Créditos: <a href="https://github.com/MitoCoder">Edvam Santos</a> e <a href="https://github.com/5gMurilo">Murilo Cardoso</a></p>
+    <p>Portifolio dos Devs: <a href="https://portfolio-edvam-santos.vercel.app">Port: Edvam.</a> e <a href="https://github.com/5gMurilo">Port: Murilo</a></p>
+  
 </div>
