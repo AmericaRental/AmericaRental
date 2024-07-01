@@ -43,6 +43,6 @@
 
 <div align="center">
   <p>Créditos: <a href="https://github.com/MitoCoder">Edvam Santos</a> e <a href="https://github.com/5gMurilo">Murilo Cardoso</a></p>
-    <p>Portifolio dos Devs: <a href="https://portfolio-edvam-santos.vercel.app">Port: Edvam.</a> e <a href="https://github.com/5gMurilo">Port: Murilo</a></p>
+    <p>Portifolio dos Devs: <a href="https://portfolio-edvam-santos.vercel.app">Port: Edvam.</a> e <a href="https://murilocardoso.vercel.app">Port: Murilo</a></p>
   
 </div>
